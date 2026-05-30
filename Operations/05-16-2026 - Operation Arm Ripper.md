@@ -1,4 +1,7 @@
 # Operation: Arm Ripper
+**TASK ORG:** 1 x Infantry Section (Call-sign `A-2-0`)
+**LOCATION:** West Dock Lamentin (FOB Weller-man)
+**TIME:** `2300`
 ## Situation
 Island is scattered with Russian Forces, Mostly situated in their bases. They have small arms to their disposal. Their communication systems where taken offline by a team just hours prior, very unlikely that their systems are back up so attacks are 
 
