@@ -1,6 +1,6 @@
 # Operation: Cricket
-**TASK ORG:** 1 x Infantry Section (Call-sign `OAK 1-1`)
-**LOCATION:** Patrol Base "Sandford"
+**TASK ORG:** 1 x Infantry Section (Call-sign `OAK 1-1`)  
+**LOCATION:** Patrol Base "Sandford"  
 **TIME:** `0430`
 ## Situation
 Intelligence suggests a local **Taliban** cell (approx. 20-30 fighters) has migrated from the Korengal Valley into our Area of Responsibility (AOR). They are currently in their "fighting season" peak. They are equipped with AK-pattern rifles, RPG-7s, and at least one PKM heavy machine gun.

@@ -1,6 +1,6 @@
 # Operation: Arm Ripper
-**TASK ORG:** 1 x Infantry Section (Call-sign `A-2-0`)
-**LOCATION:** West Lamentin Docks (FOB Weller-man)
+**TASK ORG:** 1 x Infantry Section (Call-sign `A-2-0`)  
+**LOCATION:** West Lamentin Docks (FOB Weller-man)  
 **TIME:** `2300`
 ## Situation
 Island is scattered with Russian Forces, Mostly situated in their bases. They have small arms to their disposal. Their communication systems where taken offline by a team just hours prior, very unlikely that their systems are back up so attacks are 
@@ -12,8 +12,8 @@ We have received information that there are weapon caches on the island and ther
 Command as assigned a mortar team based in Figari, call-sign `Rainman`.
 Section Lead to Give a check-in to inform them that they will be needed for the mission. Command has sanctioned `1x Resupply` in field, should `A-2-0` require it, radio in to `Rainman` and request `Band-aids @ <grid>`.
 ### Frequencies
-`Command - 48.0Mhz`
-`A-2-0 - 38.0Mhz`
+`Command - 48.0Mhz`  
+`A-2-0 - 38.0Mhz`  
 `Rainman - 36.4MHz
 ## Notes
 Locals are present and must be handled with caution, Hearts + Minds.
