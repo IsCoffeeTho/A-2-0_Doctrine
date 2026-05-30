@@ -1,6 +1,6 @@
 # Operation: Stink Bug
 **TASK ORG:** 1 x Infantry Section (Call-sign `A-2-0`)
-**LOCATION:** ~1.5km SW Zelenogorsk
+**LOCATION:** `~1.5km` SW of Zelenogorsk (FOB Noel)
 **TIME:** `0800`
 ## Situation
 OP-FOR has recently moved into key positions around the Province of **Chernarus** to secure strategic locations and gather intelligence. The situation is tense, as OP-FOR seeks to gain control over critical areas while maintaining a low profile.
